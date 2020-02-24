@@ -1,0 +1,26 @@
+body {
+background-color: #fff000;
+cursor:nesw-resize;
+}
+
+div {
+height: 100px;
+width: 50%;
+}
+.red-div {
+background-color: red;
+float: left;
+}
+.blue-div {
+background-color: blue;
+float: right;
+}
+ h3 {
+text-align: center;
+}
+.hello{
+text-align: center;
+}
+.mubarak {
+overflow: auto;
+}
